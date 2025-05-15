@@ -15,3 +15,8 @@ This project is an **academic simulation** designed to technically demonstrate a
 
 **Eren ÖNDER**  
 Computer Forensics Engineering Student – Fırat University
+
+
+## Video
+
+[▶ Ryuk Ransomware Simulation Demonstration](https://youtu.be/IKJGbDf7x2I)
