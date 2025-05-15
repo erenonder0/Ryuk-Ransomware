@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Ryuk Ransomware||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0168942F-D6A5-4362-8DF3-9EA7F6381C67}|Ryuk Ransomware\\Ryuk Ransomware.csproj|C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\Ryuk Ransomware\\RyukEncrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0168942F-D6A5-4362-8DF3-9EA7F6381C67}|Ryuk Ransomware\\Ryuk Ransomware.csproj|solutionrelative:Ryuk Ransomware\\RyukEncrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0168942F-D6A5-4362-8DF3-9EA7F6381C67}|Ryuk Ransomware\\Ryuk Ransomware.csproj|c:\\users\\ereno\\onedrive\\masa\u00FCst\u00FC\\eren\\projects\\ryuk ransomware\\ryuk ransomware\\ryukencrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0168942F-D6A5-4362-8DF3-9EA7F6381C67}|Ryuk Ransomware\\Ryuk Ransomware.csproj|solutionrelative:ryuk ransomware\\ryukencrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0168942F-D6A5-4362-8DF3-9EA7F6381C67}|Ryuk Ransomware\\Ryuk Ransomware.csproj|c:\\users\\ereno\\onedrive\\masa\u00FCst\u00FC\\eren\\projects\\ryuk ransomware\\ryuk ransomware\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ryuk Ransomware",
+              "DocumentMoniker": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\Ryuk Ransomware\\Ryuk Ransomware.csproj",
+              "RelativeDocumentMoniker": "Ryuk Ransomware\\Ryuk Ransomware.csproj",
+              "ToolTip": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\Ryuk Ransomware\\Ryuk Ransomware.csproj",
+              "RelativeToolTip": "Ryuk Ransomware\\Ryuk Ransomware.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T18:58:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RyukEncrypter.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\Ryuk Ransomware\\RyukEncrypter.cs",
+              "RelativeDocumentMoniker": "Ryuk Ransomware\\RyukEncrypter.cs",
+              "ToolTip": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\Ryuk Ransomware\\RyukEncrypter.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ryuk Ransomware\\RyukEncrypter.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:19:37.349Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RyukEncrypter.cs",
+              "DocumentMoniker": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\Ryuk Ransomware\\RyukEncrypter.cs",
+              "RelativeDocumentMoniker": "Ryuk Ransomware\\RyukEncrypter.cs",
+              "ToolTip": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\Eren\\Projects\\Ryuk Ransomware\\Ryuk Ransomware\\RyukEncrypter.cs",
+              "RelativeToolTip": "Ryuk Ransomware\\RyukEncrypter.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:23:01.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

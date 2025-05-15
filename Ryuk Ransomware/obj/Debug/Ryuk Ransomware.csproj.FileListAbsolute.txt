@@ -1,0 +1,256 @@
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.exe.config
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.exe
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.pdb
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.csproj.AssemblyReference.cache
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk_Ransomware.Properties.Resources.resources
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.csproj.GenerateResource.cache
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.csproj.CoreCompileInputs.cache
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.exe
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.pdb
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk_Ransomware.RyukEncrypter.resources
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.exe.manifest
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.application
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.exe.manifest
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.application
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Buffers.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Collections.Immutable.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Memory.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Buffers.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Collections.Immutable.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Memory.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ran.B84A926C.Up2Date
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csc.exe
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csc.exe.config
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csc.rsp
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csi.exe
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csi.exe.config
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csi.rsp
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Buffers.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Memory.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\vbc.exe
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\vbc.exe.config
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\vbc.rsp
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\onder\source\repos\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.csproj.AssemblyReference.cache
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk_Ransomware.RyukEncrypter.resources
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk_Ransomware.Properties.Resources.resources
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.csproj.GenerateResource.cache
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.csproj.CoreCompileInputs.cache
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.exe
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.pdb
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.exe.config
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.exe.manifest
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.application
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.exe
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Ryuk Ransomware.pdb
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csc.exe
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csc.exe.config
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csc.rsp
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csi.exe
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csi.exe.config
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\csi.rsp
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Buffers.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Memory.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\vbc.exe
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\vbc.exe.config
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\vbc.rsp
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Buffers.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Memory.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Buffers.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Memory.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.exe.manifest
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ransomware.application
+C:\Users\ereno\OneDrive\Masaüstü\Eren\Projects\Ryuk Ransomware\Ryuk Ransomware\obj\Debug\Ryuk Ran.B84A926C.Up2Date

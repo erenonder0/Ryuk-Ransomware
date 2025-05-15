@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Ryuk Ransomware.exe" version="1.0.0.19" publicKeyToken="7acd0a091e55912b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="sa.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Ryuk Ransomware" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Ryuk Ransomware.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ryuk Ransomware.exe" size="1885600">
+      <assemblyIdentity name="Ryuk Ransomware" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VU3r3Pd2d91cB2NmZCOVwIL4j8DuAnrUIsnHhQSmBrM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Ryuk Ransomware.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="sa.ico" size="14064">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xHHhtSouvzWeKXHilzWECOKcSqn8Sp0j6oQnfC0HkYM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=EREN\onder" issuerKeyHash="42c4a27cea6b4c0613cd307083e2549a2f08b884" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Nh0KptA9t29F1qjgbR8ZW7U8fgGM/EKv6A8C1F/hZqQ=</DigestValue></Reference></SignedInfo><SignatureValue>eHg1U1jIDXoN11QVKzj6rh3ZdGfwHh3tTsNS6DxIU/Es6imse8vWwkA9VXBuVQDS4d4+MrgPwQo9KiIhWkmj+VJP3FWd4wZ5yllCf8bDXs18WJJ8RRod/fqm/aZPydgRMPTtak6Vtl7QNAFVm3flOkmehdOqFjoBt1+2Glp7Y0w=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v1zrO93sv85eaY/vXLYAOgHV0BFJosWYnJJzzGhmi29vOLJjGZddhdMhZgw36P5MvDYNlaOY3y4hr/jmPaHEGIvfmtHbVU4UbARaV/cqUMQ6IlNI5TvkGjpZkPu5zcaowF74Js1sJDoFWb5uCQselTh+pGwYqpWq9KXqq82kFPE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a466e15fd4020fe8af42fc8c017e3cb55b191f6de0a8d6456fb73dd0a60a1d36" Description="" Url=""><as:assemblyIdentity name="Ryuk Ransomware.exe" version="1.0.0.19" publicKeyToken="7acd0a091e55912b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EREN\onder</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>tE5MKgXC1jogebcAClb2VkPJL9KjWJbi9DDqnr8Vv9c=</DigestValue></Reference></SignedInfo><SignatureValue>KRilLd84uvfr4CE/g3wAsVuiugVFEg3pOx/GhKON3dZ9JHhSmjKKI5cNi/921X9yUeAWpQRhJt7KtM4Uou1XrM/ZJ/peh+II4YayMiL3zytq33eLeswrft9bFEp12OH2AlqPduNLmhFQpTzcC1M0P+XurNvxkEXOKbVQs40rr9k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v1zrO93sv85eaY/vXLYAOgHV0BFJosWYnJJzzGhmi29vOLJjGZddhdMhZgw36P5MvDYNlaOY3y4hr/jmPaHEGIvfmtHbVU4UbARaV/cqUMQ6IlNI5TvkGjpZkPu5zcaowF74Js1sJDoFWb5uCQselTh+pGwYqpWq9KXqq82kFPE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQbCJuO9lT55tID5lVTghhWjANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQARQBSAEUATgBcAG8AbgBkAGUAcjAeFw0yNDA2MjUwNzQyNTlaFw0yNTA2MjUxMzQyNTlaMB8xHTAbBgNVBAMeFABFAFIARQBOAFwAbwBuAGQAZQByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/XOs73ey/zl5pj+9ctgA6AdXQEUmixZicknPMaGaLb284smMZl12F0yFmDDfo/ky8Ng2Vo5jfLiGv+OY9ocQYi9+a0dtVThRsBFpX9ypQxDoiU0jlO+QaOlmQ+7nNxqjAXvgmzWwkOgVZvm4JCx6VOH6kbBiqlar0peqrzaQU8QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAA/NFm3Ic5XEe+eAiYTIKi0GI5uxW7aKKfmaIEQBl6cFjJY94n+sCqDfd+xUzk3koTvZOuvXRThJldtqCFZ0fW0amHjEX7kD4js9cjMIBGG9eJmoDJnnV/JVB+B3ZuIKm0FoSzpFq/ausXBA+jIPEdyRfXVtL3SvNQ728IfMqGih</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
